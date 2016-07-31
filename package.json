@@ -1,0 +1,27 @@
+{
+  "name": "schedar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papondum/schedar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/papondum/schedar/issues"
+  },
+  "homepage": "https://github.com/papondum/schedar#readme",
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  },
+  "dependencies": {
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
